@@ -1,3 +1,4 @@
 teste!
 entendendo head
 linha inserida (inserida no ramo master)
+inserida (modificada no ramo teste)
